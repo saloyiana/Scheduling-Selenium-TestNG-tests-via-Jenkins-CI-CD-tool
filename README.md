@@ -1,3 +1,3 @@
-### Scheduling Selenium TestNG tests via Jenkins CI/CD tool
+# Scheduling Selenium TestNG tests via Jenkins CI/CD tool
 
-## an application of the a taken course on Coursera .
+### an application of the a taken course on Coursera .
